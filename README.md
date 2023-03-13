@@ -1,10 +1,10 @@
-### Hi there 👋, I'm Sophia
+## Hi there 👋, I'm Sophia
 
 - 🔭 I’m currently working on learning to code through [The Odin Project][top]
 - 🌱 I’m currently learning JavaScript, React JS, Node JS, MondoDB
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on web apps
 - 🤔 I’m looking for help with getting my first professional front-end developer experience
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: on LinkedIn
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: I like to ski :ski: and cook :woman_cook:
 
@@ -26,8 +26,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg#light-mode-only" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg#dark-mode-only" />
+
+
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-dark-mode-only)
 
 <br />
 <br />
@@ -41,8 +43,6 @@
 
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-lemon-mu.vercel.app/api/top-langs?username=sophiavf&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true&layout=compact" />
-
-
 
 
 [top]: https://www.theodinproject.com/
