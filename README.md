@@ -8,9 +8,14 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sophiafairbairn/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sophiafairbairn/#gh-dark-mode-only)
+<p align ="left> 
+           
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
+           
+</p>
 
+           
 ### Languages and Tools:
 
 <p align="left">
@@ -29,7 +34,6 @@
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"  />
 <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"  />  
 </p> 
-<br />
 
 #### In the pipeline:
 <p align="left">
@@ -41,3 +45,14 @@
 
 | <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-lemon-mu.vercel.app/api?username=sophiavf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" /> | <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-lemon-mu.vercel.app/api/top-langs?username=sophiavf&layout=compact&theme=buefy&hide_border=true&count_private=true" /> |
 | ------------- | ------------- |
+
+
+
+<!-- Social media -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/sophiafairbairn/
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter-url]: https://twitter.com/Sophia_techy
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
